@@ -1,0 +1,21 @@
+{
+  "name": "buffer",
+  "repo": "treygriffith/buffer",
+  "description": "Buffer Events so you don't flood something",
+  "version": "0.0.1",
+  "keywords": [
+    "buffer",
+    "wait",
+    "events",
+    "timer"
+  ],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
